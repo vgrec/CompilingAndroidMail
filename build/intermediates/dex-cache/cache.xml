@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/vgrec/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/18.0/cce0823396aa693798f8882e64213b1772032b09/guava-18.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="/home/vgrec/AndroidStudioProjects/CompilingAndroidMail/app/build/intermediates/pre-dexed/debug/guava-18.0-0e13daf858de8504d79398925eef7171e093129f.jar" />
+    </item>
+
+</items>
